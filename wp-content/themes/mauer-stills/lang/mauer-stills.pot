@@ -1,0 +1,2012 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Mauer Stills\n"
+"POT-Creation-Date: 2019-02-07 03:08+0300\n"
+"PO-Revision-Date: 2019-02-07 03:08+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:16
+msgid "Page not found (Error 404)"
+msgstr ""
+
+#: comments.php:21
+msgid "Comments"
+msgstr ""
+
+#: comments.php:30
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:31
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:40
+msgid "Comments are closed"
+msgstr ""
+
+#: content-blog_2cols.php:15 content-blog_list.php:24
+msgctxt "Blog category archive title"
+msgid "Category: "
+msgstr ""
+
+#: content-blog_2cols.php:16 content-blog_list.php:25
+msgctxt "Blog tag archive title"
+msgid "tag: "
+msgstr ""
+
+#: content-blog_2cols.php:57 content-blog_list.php:86 single.php:20
+msgid "Sticky"
+msgstr ""
+
+#: content-blog_2cols.php:92 content-blog_list.php:116
+msgid "Newer posts"
+msgstr ""
+
+#: content-blog_2cols.php:93 content-blog_list.php:117
+msgid "Older posts"
+msgstr ""
+
+#: content-blog_2cols.php:95 content-blog_list.php:119
+msgid "Newer results"
+msgstr ""
+
+#: content-blog_2cols.php:96 content-blog_list.php:120
+msgid "Older results"
+msgstr ""
+
+#: content-blog_2cols.php:126 content-blog_list.php:157
+#: content-project_content.php:49 content-projects_grid_3cols.php:83
+#: content-projects_masonry_4cols.php:69 page-alternative.php:53 page.php:62
+#: single.php:136
+msgid "Sorry, no posts matched your criteria"
+msgstr ""
+
+#: content-blog_list.php:12
+msgid "Search results for: "
+msgstr ""
+
+#: content-blog_list.php:151
+msgid "No results."
+msgstr ""
+
+#: content-projects_flow_2cols.php:63 content-projects_grid_3cols.php:71
+#: content-projects_masonry_4cols.php:57
+msgid "Loading"
+msgstr ""
+
+#: content-projects_flow_2cols.php:63 content-projects_grid_3cols.php:71
+#: content-projects_masonry_4cols.php:57
+msgid "Load more"
+msgstr ""
+
+#: content-projects_flow_2cols.php:75
+msgid "Sorry, nothing to display here."
+msgstr ""
+
+#: functions.php:21
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:144
+msgid ""
+"The font scheme will now be preloaded into the fields. It will be applied to "
+"the website, when you click the Update button."
+msgstr ""
+
+#: functions.php:145
+msgid ""
+"The color scheme will now be preloaded into the fields. It will be applied "
+"to the website, when you click the Update button."
+msgstr ""
+
+#: functions.php:200
+msgid "Theme Options"
+msgstr ""
+
+#: functions.php:206
+msgid "General"
+msgstr ""
+
+#: functions.php:211
+msgid "Colors"
+msgstr ""
+
+#: functions.php:216
+msgid "Fonts"
+msgstr ""
+
+#: functions.php:256
+msgid "Pages:"
+msgstr ""
+
+#: functions.php:262
+msgid "Next page"
+msgstr ""
+
+#: functions.php:263
+msgid "Previous page"
+msgstr ""
+
+#: functions.php:494
+msgctxt "the first item of the Portfolio categories menu"
+msgid "All"
+msgstr ""
+
+#: functions.php:585
+msgid "Blog widgets 1 - Leftmost"
+msgstr ""
+
+#: functions.php:587 functions.php:596 functions.php:605 functions.php:614
+msgid "Widgetized area"
+msgstr ""
+
+#: functions.php:594
+msgid "Blog widgets 2 - Center Left"
+msgstr ""
+
+#: functions.php:603
+msgid "Blog widgets 3 - Center Right"
+msgstr ""
+
+#: functions.php:612
+msgid "Blog widgets 4 - Rightmost"
+msgstr ""
+
+#: functions.php:635 functions.php:668
+msgid "read more"
+msgstr ""
+
+#: functions.php:636 functions.php:669
+msgid "view"
+msgstr ""
+
+#: functions.php:749
+msgid "Pingback"
+msgstr ""
+
+#: functions.php:765
+msgctxt "comes between comment date and comment time"
+msgid "at"
+msgstr ""
+
+#: functions.php:770
+msgid "Your comment is awaiting moderation"
+msgstr ""
+
+#: functions.php:792
+msgctxt "comment form placeholder"
+msgid "Name"
+msgstr ""
+
+#: functions.php:793
+msgctxt "comment form placeholder"
+msgid "Email"
+msgstr ""
+
+#: functions.php:794
+msgctxt "comment form placeholder"
+msgid "Website"
+msgstr ""
+
+#: functions.php:836
+msgctxt "comment form placeholder"
+msgid "Comment"
+msgstr ""
+
+#: functions.php:854
+msgctxt "Contact Form 7 Placeholder in the default CF7 template"
+msgid "Your Name"
+msgstr ""
+
+#: functions.php:855
+msgctxt "Contact Form 7 Placeholder in the default CF7 template"
+msgid "Email"
+msgstr ""
+
+#: functions.php:856
+msgctxt "Contact Form 7 Placeholder in the default CF7 template"
+msgid "Message"
+msgstr ""
+
+#: functions.php:857 functions.php:1430
+msgctxt "Contact Form 7 Placeholder in the default CF7 template"
+msgid "Send"
+msgstr ""
+
+#: functions.php:1147
+msgctxt "Cormorant Garamond font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:1175
+msgctxt "Font 1: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:1176
+msgctxt "Font 2: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:1177
+msgctxt "Font 3: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:1178
+msgctxt "Font 4: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:1179
+msgctxt "Font 5: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:1427
+msgctxt "Contact Form 7 Placeholder in the default CF7 template"
+msgid "Your Name*"
+msgstr ""
+
+#: functions.php:1428
+msgctxt "Contact Form 7 Placeholder in the default CF7 template"
+msgid "Email*"
+msgstr ""
+
+#: functions.php:1429
+msgctxt "Contact Form 7 Placeholder in the default CF7 template"
+msgid "Message*"
+msgstr ""
+
+#: functions.php:1466
+msgid "ACF Pro"
+msgstr ""
+
+#: functions.php:1473
+msgid "Mauer Stills Portfolio"
+msgstr ""
+
+#: functions.php:1480
+msgid "Mauer Stills Gallery"
+msgstr ""
+
+#: functions.php:1487
+msgid "Contact Form 7"
+msgstr ""
+
+#: functions.php:1493
+msgid "Jetpack"
+msgstr ""
+
+#: header.php:43
+msgid "Toggle navigation"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: includes/TGMPA/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: includes/TGMPA/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: includes/TGMPA/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: includes/TGMPA/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: includes/TGMPA/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: includes/TGMPA/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: includes/TGMPA/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: includes/TGMPA/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:386
+#: includes/TGMPA/class-tgm-plugin-activation.php:827
+#: includes/TGMPA/class-tgm-plugin-activation.php:2533
+#: includes/TGMPA/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:387
+#: includes/TGMPA/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:388
+#: includes/TGMPA/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: includes/TGMPA/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: includes/TGMPA/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: includes/TGMPA/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:934
+#: includes/TGMPA/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:1121
+#: includes/TGMPA/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: includes/TGMPA/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: includes/TGMPA/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: includes/TGMPA/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: includes/TGMPA/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: includes/TGMPA/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: includes/TGMPA/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/TGMPA/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/TGMPA/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/TGMPA/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/TGMPA/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: includes/TGMPA/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: includes/TGMPA/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: includes/TGMPA/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:3509
+#: includes/TGMPA/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:3509
+#: includes/TGMPA/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/TGMPA/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: includes/TGMPA/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/TGMPA/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/TGMPA/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/acf-fields.php:7 includes/acf-fields.php:62
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Info"
+msgstr ""
+
+#: includes/acf-fields.php:11
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "This is the Portfolio page."
+msgstr ""
+
+#: includes/acf-fields.php:22
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid ""
+"You can change various settings affecting portfolio archive pages (such as "
+"this one) in Theme Options > General.\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tYou can edit portfolio projects by going to "
+"Portfolio (in the Admin menu)."
+msgstr ""
+
+#: includes/acf-fields.php:66
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "This is the Blog page"
+msgstr ""
+
+#: includes/acf-fields.php:77
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid ""
+"You can change the layout of blog archive pages (such as this one) in Theme "
+"Options > General. You can edit posts by going to Posts (in the Admin menu)."
+msgstr ""
+
+#: includes/acf-fields.php:117
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Related Posts"
+msgstr ""
+
+#: includes/acf-fields.php:121
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Show related posts"
+msgstr ""
+
+#: includes/acf-fields.php:137
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Related mode"
+msgstr ""
+
+#: includes/acf-fields.php:140
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid ""
+"\"Auto\" selects related posts based on categories and tags. \"Select "
+"manually\" lets you select 1-2 posts manually and customize the title above "
+"them."
+msgstr ""
+
+#: includes/acf-fields.php:158
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Auto"
+msgstr ""
+
+#: includes/acf-fields.php:159
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Select manually"
+msgstr ""
+
+#: includes/acf-fields.php:169
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Heading"
+msgstr ""
+
+#: includes/acf-fields.php:172
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "e.g. \"Other posts on portraiture\""
+msgstr ""
+
+#: includes/acf-fields.php:188 includes/acf-fields.php:189
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Related posts"
+msgstr ""
+
+#: includes/acf-fields.php:198
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Specify related posts"
+msgstr ""
+
+#: includes/acf-fields.php:201
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid ""
+"Drag the left side of a line to rearrange posts. Hover over the right side "
+"and click \"-\" to delete."
+msgstr ""
+
+#: includes/acf-fields.php:225
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Post"
+msgstr ""
+
+#: includes/acf-fields.php:279
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Smaller featured image"
+msgstr ""
+
+#: includes/acf-fields.php:282
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid ""
+"(!) This affects horizontal and square images (aspect ratio < 6/5) in the 2 "
+"Col Portfolio layout, and enables creating layouts similar to this: "
+msgstr ""
+
+#: includes/acf-fields.php:285
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "example"
+msgstr ""
+
+#: includes/acf-fields.php:316
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Theme Options: General"
+msgstr ""
+
+#: includes/acf-fields.php:320
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Logo to use"
+msgstr ""
+
+#: includes/acf-fields.php:323
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Whether to use a text logo or a custom image."
+msgstr ""
+
+#: includes/acf-fields.php:332 includes/acf-fields.php:348
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Text logo"
+msgstr ""
+
+#: includes/acf-fields.php:333
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Custom image"
+msgstr ""
+
+#: includes/acf-fields.php:351
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid ""
+"If left blank, text logo will show your site title set in WP General "
+"Settings."
+msgstr ""
+
+#: includes/acf-fields.php:377
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Custom logo image"
+msgstr ""
+
+#: includes/acf-fields.php:380
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid ""
+"It's recommended to use an upscaled image for better looks on high-"
+"resolution screens (e.g. Retina).\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOnce uploaded, to delete your custom "
+"logo hover over it and click the \"X\" icon."
+msgstr ""
+
+#: includes/acf-fields.php:410
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Custom logo height (pixels)"
+msgstr ""
+
+#: includes/acf-fields.php:413
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid ""
+"Here you can scale your logo by controlling its height on the website "
+"(32-60px).\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tIt is reasonable to upload an image "
+"twice as high as the value you set here - for sharper display on pixel dense "
+"displays (e.g. Retina).\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tDefault: 32."
+msgstr ""
+
+#: includes/acf-fields.php:446
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Favicon Fallback"
+msgstr ""
+
+#: includes/acf-fields.php:449
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid ""
+"If no site icon set in Appearance > Customize, this letter (latin) will be "
+"displayed in site favicon. Defaults to the first letter of the site title."
+msgstr ""
+
+#: includes/acf-fields.php:461
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Header social icons"
+msgstr ""
+
+#: includes/acf-fields.php:464
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid ""
+"Links to your social accounts/pages - displayed in the header of the "
+"website. Drag the left side of a line to rearrange items.\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tHover over the right side and click \"-"
+"\" to delete."
+msgstr ""
+
+#: includes/acf-fields.php:481
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Icon"
+msgstr ""
+
+#: includes/acf-fields.php:549
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "URL"
+msgstr ""
+
+#: includes/acf-fields.php:572
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Search icon in header"
+msgstr ""
+
+#: includes/acf-fields.php:575
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid ""
+"For designs reasons it's recommended that the header has social icons or the "
+"search icon (or both)."
+msgstr ""
+
+#: includes/acf-fields.php:586
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Copyright text"
+msgstr ""
+
+#: includes/acf-fields.php:589
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid ""
+"Footer copyright text. You can insert links here with an anchor tag - see "
+"field placeholder."
+msgstr ""
+
+#: includes/acf-fields.php:607
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Year in the copyright"
+msgstr ""
+
+#: includes/acf-fields.php:610
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Whether to prepend footer copyright text with a year."
+msgstr ""
+
+#: includes/acf-fields.php:623
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Copyright year"
+msgstr ""
+
+#: includes/acf-fields.php:626
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid ""
+"If you insert the current year, it will be displayed as is. If you insert a "
+"past year, it will be displayed with the current year like so: \"2013-2017\"."
+msgstr ""
+
+#: includes/acf-fields.php:654 includes/acf-fields.php:656
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid ""
+"Sincere portrait and editorial photography from an&nbsp;IPA winner. "
+"California and worldwide."
+msgstr ""
+
+#: includes/acf-fields.php:660
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Portfolio welcome phrase"
+msgstr ""
+
+#: includes/acf-fields.php:663
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid ""
+"This text is displayed at the top of the portfolio page. Leave blank to not "
+"display it at all.\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tIt is recommended to hide the portfolio "
+"categories menu if you are not using a welcome phrase "
+msgstr ""
+
+#: includes/acf-fields.php:675
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Show portfolio categories menu"
+msgstr ""
+
+#: includes/acf-fields.php:678
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Whether to display a menu of filters at the top of portfolio archives."
+msgstr ""
+
+#: includes/acf-fields.php:691
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Show portfolio categories in single projects"
+msgstr ""
+
+#: includes/acf-fields.php:694
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid ""
+"Whether to display the category/categories under the title in the single "
+"project page."
+msgstr ""
+
+#: includes/acf-fields.php:707
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Portfolio layout"
+msgstr ""
+
+#: includes/acf-fields.php:710
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid ""
+"To achieve the \"2 Cols Flow, Playful\" view that you can see in the theme "
+"demo, choose the \"2 columns (Flow)\" layout here.\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tThen control the featured image size of "
+"each portfolio project with the \"Smaller featured image\" switch. For more "
+"info please see\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tthe User Guide."
+msgstr ""
+
+#: includes/acf-fields.php:713 includes/acf-fields.php:804
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid ""
+"Due to the nature of Masonry, it looks best with featured images of at least "
+"three different aspect\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tratios all being in the layout at the "
+"same time (e.g. horizontal, vertical and square)."
+msgstr ""
+
+#: includes/acf-fields.php:723
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "2 columns (Flow)"
+msgstr ""
+
+#: includes/acf-fields.php:724 includes/acf-fields.php:822
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "3 columns (Airy grid)"
+msgstr ""
+
+#: includes/acf-fields.php:725 includes/acf-fields.php:823
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "4 columns (Masonry)"
+msgstr ""
+
+#: includes/acf-fields.php:735
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Nu. of projects on portfolio pages"
+msgstr ""
+
+#: includes/acf-fields.php:738
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "The number of items to show in portfolio before \"Load more\"."
+msgstr ""
+
+#: includes/acf-fields.php:758
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Show other works at end of project"
+msgstr ""
+
+#: includes/acf-fields.php:761
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Whether to display all projects at the bottom of single project page."
+msgstr ""
+
+#: includes/acf-fields.php:773 includes/acf-fields.php:775
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Other works:"
+msgstr ""
+
+#: includes/acf-fields.php:779
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Other works title"
+msgstr ""
+
+#: includes/acf-fields.php:782
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Displayed before the other projects list."
+msgstr ""
+
+#: includes/acf-fields.php:801
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Other works layout"
+msgstr ""
+
+#: includes/acf-fields.php:833
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Nu. of projects in other works"
+msgstr ""
+
+#: includes/acf-fields.php:836
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "The number of items to show in the other works block."
+msgstr ""
+
+#: includes/acf-fields.php:869
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Keep Jetpack Image CDN disabled"
+msgstr ""
+
+#: includes/acf-fields.php:872
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid ""
+"This forces Jetpack Photon module to be off, by overriding the setting in "
+"\"Jetpack\" > \"Settings\" > \"Serve images from our servers\". Photon is "
+"known to cause issues with images such as overcompressing. It's recommended "
+"to have this checkbox checked."
+msgstr ""
+
+#: includes/acf-fields.php:888
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Individual images sharing"
+msgstr ""
+
+#: includes/acf-fields.php:891
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Share individual images from lightbox view."
+msgstr ""
+
+#: includes/acf-fields.php:903
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "2 Column Flow"
+msgstr ""
+
+#: includes/acf-fields.php:904
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "2 Column Grid"
+msgstr ""
+
+#: includes/acf-fields.php:905
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "List"
+msgstr ""
+
+#: includes/acf-fields.php:916
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Blog archives layout"
+msgstr ""
+
+#: includes/acf-fields.php:927
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Enable"
+msgstr ""
+
+#: includes/acf-fields.php:932
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Automatically create blog posts excerpts"
+msgstr ""
+
+#: includes/acf-fields.php:935
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid ""
+"If enabled, post excerpts will be displayed on blog archive pages even when "
+"there are no 'more' breaks or explicitly provided excerpts."
+msgstr ""
+
+#: includes/acf-fields.php:954
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Excerpts length (words)"
+msgstr ""
+
+#: includes/acf-fields.php:957
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "By default excerpts are 40 words long."
+msgstr ""
+
+#: includes/acf-fields.php:974
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Add Open Graph tags"
+msgstr ""
+
+#: includes/acf-fields.php:977
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid ""
+"Open Graph tags tell Facebook what title, excerpt and image to use when "
+"someone posts a link to your website.\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tUnless you are using a third-party "
+"plugin for generating OG tags (like Yoast SEO), it is recommended that you "
+"have\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tthis feature turned on. If you have the "
+"Jetpack plugin installed (recommended), and this setting is turned on,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tthe OG tags generated by Jetpack are "
+"overridden (by theme's smarter tags)."
+msgstr ""
+
+#: includes/acf-fields.php:1002
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Default image for Open Graph tags"
+msgstr ""
+
+#: includes/acf-fields.php:1005
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid ""
+"If there is no featured image attached to a post, page or a project, this "
+"image will be used when sharing it over Facebook.\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tThe recommended size is 1200 by 630 px."
+msgstr ""
+
+#: includes/acf-fields.php:1069
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid ""
+"Important: When you select a font-weight, please make sure that the font you "
+"want to use actually exists in this weight."
+msgstr ""
+
+#: includes/acf-fields.php:1071
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Important: Make sure the font you select exists in your language."
+msgstr ""
+
+#: includes/acf-fields.php:1072
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid ""
+"For visual consistency, font-weight of footer text is always the same as "
+"body (Font 1)."
+msgstr ""
+
+#: includes/acf-fields.php:1097 includes/acf-fields.php:2689
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Preload scheme 1 (default)"
+msgstr ""
+
+#: includes/acf-fields.php:1098 includes/acf-fields.php:2690
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Preload scheme 2"
+msgstr ""
+
+#: includes/acf-fields.php:1099 includes/acf-fields.php:2691
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Preload scheme 3"
+msgstr ""
+
+#: includes/acf-fields.php:1100
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Preload scheme 4"
+msgstr ""
+
+#: includes/acf-fields.php:1127 includes/acf-fields.php:1131
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "General"
+msgstr ""
+
+#: includes/acf-fields.php:1155 includes/acf-fields.php:1399
+#: includes/acf-fields.php:1675 includes/acf-fields.php:1951
+#: includes/acf-fields.php:1993 includes/acf-fields.php:2269
+#: includes/acf-fields.php:2545
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Normal (400)"
+msgstr ""
+
+#: includes/acf-fields.php:1156 includes/acf-fields.php:1400
+#: includes/acf-fields.php:1676 includes/acf-fields.php:1952
+#: includes/acf-fields.php:1994 includes/acf-fields.php:2270
+#: includes/acf-fields.php:2546
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Medium (500)"
+msgstr ""
+
+#: includes/acf-fields.php:1157 includes/acf-fields.php:1401
+#: includes/acf-fields.php:1677 includes/acf-fields.php:1953
+#: includes/acf-fields.php:1995 includes/acf-fields.php:2271
+#: includes/acf-fields.php:2547
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Semi-bold (600)"
+msgstr ""
+
+#: includes/acf-fields.php:1158 includes/acf-fields.php:1402
+#: includes/acf-fields.php:1678 includes/acf-fields.php:1954
+#: includes/acf-fields.php:1996 includes/acf-fields.php:2272
+#: includes/acf-fields.php:2548
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Bold (700)"
+msgstr ""
+
+#: includes/acf-fields.php:1159 includes/acf-fields.php:1403
+#: includes/acf-fields.php:1679 includes/acf-fields.php:1955
+#: includes/acf-fields.php:1997 includes/acf-fields.php:2273
+#: includes/acf-fields.php:2549
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Extra bold (800)"
+msgstr ""
+
+#: includes/acf-fields.php:1160 includes/acf-fields.php:1404
+#: includes/acf-fields.php:1680 includes/acf-fields.php:1956
+#: includes/acf-fields.php:1998 includes/acf-fields.php:2274
+#: includes/acf-fields.php:2550
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Heavy (900)"
+msgstr ""
+
+#: includes/acf-fields.php:1170
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Bolded text weight"
+msgstr ""
+
+#: includes/acf-fields.php:1173
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Default: 500"
+msgstr ""
+
+#: includes/acf-fields.php:1197
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Google Fonts extra subsets"
+msgstr ""
+
+#: includes/acf-fields.php:1200
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Besided latin & latin-ext, comma separated"
+msgstr ""
+
+#: includes/acf-fields.php:1220
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Font 1: Body font"
+msgstr ""
+
+#: includes/acf-fields.php:1224
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Font 1"
+msgstr ""
+
+#: includes/acf-fields.php:1248 includes/acf-fields.php:1524
+#: includes/acf-fields.php:1800 includes/acf-fields.php:2118
+#: includes/acf-fields.php:2394
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Google font"
+msgstr ""
+
+#: includes/acf-fields.php:1249 includes/acf-fields.php:1525
+#: includes/acf-fields.php:1801 includes/acf-fields.php:2119
+#: includes/acf-fields.php:2395
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Theme-bundled font"
+msgstr ""
+
+#: includes/acf-fields.php:1250 includes/acf-fields.php:1367
+#: includes/acf-fields.php:1526 includes/acf-fields.php:1643
+#: includes/acf-fields.php:1802 includes/acf-fields.php:1919
+#: includes/acf-fields.php:2120 includes/acf-fields.php:2237
+#: includes/acf-fields.php:2396 includes/acf-fields.php:2513
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Web safe font"
+msgstr ""
+
+#: includes/acf-fields.php:1260 includes/acf-fields.php:1536
+#: includes/acf-fields.php:1812 includes/acf-fields.php:2130
+#: includes/acf-fields.php:2406
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Font source"
+msgstr ""
+
+#: includes/acf-fields.php:1263 includes/acf-fields.php:1539
+#: includes/acf-fields.php:1815
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Default: Bundled"
+msgstr ""
+
+#: includes/acf-fields.php:1287 includes/acf-fields.php:1563
+#: includes/acf-fields.php:1839 includes/acf-fields.php:2157
+#: includes/acf-fields.php:2433
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Google font name"
+msgstr ""
+
+#: includes/acf-fields.php:1290 includes/acf-fields.php:1842
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Default: EB Garamond"
+msgstr ""
+
+#: includes/acf-fields.php:1313 includes/acf-fields.php:1589
+#: includes/acf-fields.php:1865 includes/acf-fields.php:2183
+#: includes/acf-fields.php:2459
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "HK Grotesk (available in 300, 400, 500, 700)"
+msgstr ""
+
+#: includes/acf-fields.php:1317 includes/acf-fields.php:1593
+#: includes/acf-fields.php:1869 includes/acf-fields.php:2187
+#: includes/acf-fields.php:2463
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Theme bundled font"
+msgstr ""
+
+#: includes/acf-fields.php:1396 includes/acf-fields.php:1672
+#: includes/acf-fields.php:1948 includes/acf-fields.php:1990
+#: includes/acf-fields.php:2266 includes/acf-fields.php:2542
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Thin (100)"
+msgstr ""
+
+#: includes/acf-fields.php:1397 includes/acf-fields.php:1673
+#: includes/acf-fields.php:1949 includes/acf-fields.php:1991
+#: includes/acf-fields.php:2267 includes/acf-fields.php:2543
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Extra light (200)"
+msgstr ""
+
+#: includes/acf-fields.php:1398 includes/acf-fields.php:1674
+#: includes/acf-fields.php:1950 includes/acf-fields.php:1992
+#: includes/acf-fields.php:2268 includes/acf-fields.php:2544
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Book (300)"
+msgstr ""
+
+#: includes/acf-fields.php:1414 includes/acf-fields.php:1690
+#: includes/acf-fields.php:1966 includes/acf-fields.php:2284
+#: includes/acf-fields.php:2560
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Weight"
+msgstr ""
+
+#: includes/acf-fields.php:1417
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Default: 300"
+msgstr ""
+
+#: includes/acf-fields.php:1443
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Size (px)"
+msgstr ""
+
+#: includes/acf-fields.php:1446
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Default: 17"
+msgstr ""
+
+#: includes/acf-fields.php:1472
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Line height"
+msgstr ""
+
+#: includes/acf-fields.php:1475
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Default: 1.65"
+msgstr ""
+
+#: includes/acf-fields.php:1496
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Font 2: Headings font (h1-h6)"
+msgstr ""
+
+#: includes/acf-fields.php:1500
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Font 2"
+msgstr ""
+
+#: includes/acf-fields.php:1566
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "PDefault: EB Garamond"
+msgstr ""
+
+#: includes/acf-fields.php:1693 includes/acf-fields.php:1969
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Default: 400"
+msgstr ""
+
+#: includes/acf-fields.php:1714 includes/acf-fields.php:2032
+#: includes/acf-fields.php:2308 includes/acf-fields.php:2584
+#, php-format
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "24% bigger"
+msgstr ""
+
+#: includes/acf-fields.php:1715 includes/acf-fields.php:2033
+#: includes/acf-fields.php:2309 includes/acf-fields.php:2585
+#, php-format
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "22% bigger"
+msgstr ""
+
+#: includes/acf-fields.php:1716 includes/acf-fields.php:2034
+#: includes/acf-fields.php:2310 includes/acf-fields.php:2586
+#, php-format
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "20% bigger"
+msgstr ""
+
+#: includes/acf-fields.php:1717 includes/acf-fields.php:2035
+#: includes/acf-fields.php:2311 includes/acf-fields.php:2587
+#, php-format
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "18% bigger"
+msgstr ""
+
+#: includes/acf-fields.php:1718 includes/acf-fields.php:2036
+#: includes/acf-fields.php:2312 includes/acf-fields.php:2588
+#, php-format
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "16% bigger"
+msgstr ""
+
+#: includes/acf-fields.php:1719 includes/acf-fields.php:2037
+#: includes/acf-fields.php:2313 includes/acf-fields.php:2589
+#, php-format
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "14% bigger"
+msgstr ""
+
+#: includes/acf-fields.php:1720 includes/acf-fields.php:2038
+#: includes/acf-fields.php:2314 includes/acf-fields.php:2590
+#, php-format
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "12% bigger"
+msgstr ""
+
+#: includes/acf-fields.php:1721 includes/acf-fields.php:2039
+#: includes/acf-fields.php:2315 includes/acf-fields.php:2591
+#, php-format
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "10% bigger"
+msgstr ""
+
+#: includes/acf-fields.php:1722 includes/acf-fields.php:2040
+#: includes/acf-fields.php:2316 includes/acf-fields.php:2592
+#, php-format
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "8% bigger"
+msgstr ""
+
+#: includes/acf-fields.php:1723 includes/acf-fields.php:2041
+#: includes/acf-fields.php:2317 includes/acf-fields.php:2593
+#, php-format
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "6% bigger"
+msgstr ""
+
+#: includes/acf-fields.php:1724 includes/acf-fields.php:2042
+#: includes/acf-fields.php:2318 includes/acf-fields.php:2594
+#, php-format
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "4% bigger"
+msgstr ""
+
+#: includes/acf-fields.php:1725 includes/acf-fields.php:2043
+#: includes/acf-fields.php:2319 includes/acf-fields.php:2595
+#, php-format
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "2% bigger"
+msgstr ""
+
+#: includes/acf-fields.php:1726 includes/acf-fields.php:2044
+#: includes/acf-fields.php:2320 includes/acf-fields.php:2596
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "no adjustment"
+msgstr ""
+
+#: includes/acf-fields.php:1727 includes/acf-fields.php:2045
+#: includes/acf-fields.php:2321 includes/acf-fields.php:2597
+#, php-format
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "2% smaller"
+msgstr ""
+
+#: includes/acf-fields.php:1728 includes/acf-fields.php:2046
+#: includes/acf-fields.php:2322 includes/acf-fields.php:2598
+#, php-format
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "4% smaller"
+msgstr ""
+
+#: includes/acf-fields.php:1729 includes/acf-fields.php:2047
+#: includes/acf-fields.php:2323 includes/acf-fields.php:2599
+#, php-format
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "6% smaller"
+msgstr ""
+
+#: includes/acf-fields.php:1730 includes/acf-fields.php:2048
+#: includes/acf-fields.php:2324 includes/acf-fields.php:2600
+#, php-format
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "8% smaller"
+msgstr ""
+
+#: includes/acf-fields.php:1731 includes/acf-fields.php:2049
+#: includes/acf-fields.php:2325 includes/acf-fields.php:2601
+#, php-format
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "10% smaller"
+msgstr ""
+
+#: includes/acf-fields.php:1732 includes/acf-fields.php:2050
+#: includes/acf-fields.php:2326 includes/acf-fields.php:2602
+#, php-format
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "12% smaller"
+msgstr ""
+
+#: includes/acf-fields.php:1733 includes/acf-fields.php:2051
+#: includes/acf-fields.php:2327 includes/acf-fields.php:2603
+#, php-format
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "14% smaller"
+msgstr ""
+
+#: includes/acf-fields.php:1734 includes/acf-fields.php:2052
+#: includes/acf-fields.php:2328 includes/acf-fields.php:2604
+#, php-format
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "16% smaller"
+msgstr ""
+
+#: includes/acf-fields.php:1735 includes/acf-fields.php:2053
+#: includes/acf-fields.php:2329 includes/acf-fields.php:2605
+#, php-format
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "18% smaller"
+msgstr ""
+
+#: includes/acf-fields.php:1736 includes/acf-fields.php:2054
+#: includes/acf-fields.php:2330 includes/acf-fields.php:2606
+#, php-format
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "20% smaller"
+msgstr ""
+
+#: includes/acf-fields.php:1737 includes/acf-fields.php:2055
+#: includes/acf-fields.php:2331 includes/acf-fields.php:2607
+#, php-format
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "22% smaller"
+msgstr ""
+
+#: includes/acf-fields.php:1738 includes/acf-fields.php:2056
+#: includes/acf-fields.php:2332 includes/acf-fields.php:2608
+#, php-format
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "24% smaller"
+msgstr ""
+
+#: includes/acf-fields.php:1748 includes/acf-fields.php:2066
+#: includes/acf-fields.php:2342 includes/acf-fields.php:2618
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Size adjustment"
+msgstr ""
+
+#: includes/acf-fields.php:1751 includes/acf-fields.php:2069
+#: includes/acf-fields.php:2345 includes/acf-fields.php:2621
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Default: no adjustment"
+msgstr ""
+
+#: includes/acf-fields.php:1772
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid ""
+"Font 3: Navbar, Footer, titles in Portfolio, buttons, Portfolio categories "
+"menu, Blog meta"
+msgstr ""
+
+#: includes/acf-fields.php:1776
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Font 3"
+msgstr ""
+
+#: includes/acf-fields.php:2008
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "In Buttons"
+msgstr ""
+
+#: includes/acf-fields.php:2011
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Default: 700"
+msgstr ""
+
+#: includes/acf-fields.php:2090
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Font 4: Full entries titles, blog posts titles in feeds"
+msgstr ""
+
+#: includes/acf-fields.php:2094
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Font 4"
+msgstr ""
+
+#: includes/acf-fields.php:2133 includes/acf-fields.php:2160
+#: includes/acf-fields.php:2287 includes/acf-fields.php:2409
+#: includes/acf-fields.php:2436 includes/acf-fields.php:2563
+#: includes/acf-fields.php:2748 includes/acf-fields.php:2772
+#: includes/acf-fields.php:2796 includes/acf-fields.php:2820
+#: includes/acf-fields.php:2844 includes/acf-fields.php:2868
+#: includes/acf-fields.php:2892 includes/acf-fields.php:2916
+#: includes/acf-fields.php:2940 includes/acf-fields.php:2964
+#: includes/acf-fields.php:2988 includes/acf-fields.php:3012
+#: includes/acf-fields.php:3036 includes/acf-fields.php:3060
+#: includes/acf-fields.php:3084 includes/acf-fields.php:3108
+#: includes/acf-fields.php:3132 includes/acf-fields.php:3156
+#: includes/acf-fields.php:3180
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Default:"
+msgstr ""
+
+#: includes/acf-fields.php:2366
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Font 5: Portfolio welcome phrase font"
+msgstr ""
+
+#: includes/acf-fields.php:2370
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Font 5"
+msgstr ""
+
+#: includes/acf-fields.php:2666
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Theme Options: Colors"
+msgstr ""
+
+#: includes/acf-fields.php:2675
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Use custom colors"
+msgstr ""
+
+#: includes/acf-fields.php:2718
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Keep things simple"
+msgstr ""
+
+#: includes/acf-fields.php:2737
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid ""
+"For best results, it is recommended to reuse colors in several places. Try "
+"preloading the schemes from above to get the idea."
+msgstr ""
+
+#: includes/acf-fields.php:2745
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Background"
+msgstr ""
+
+#: includes/acf-fields.php:2749
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Site background."
+msgstr ""
+
+#: includes/acf-fields.php:2769
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Primary color"
+msgstr ""
+
+#: includes/acf-fields.php:2773
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Body text, headings."
+msgstr ""
+
+#: includes/acf-fields.php:2793
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Secondary color"
+msgstr ""
+
+#: includes/acf-fields.php:2797
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid ""
+"Categories, dates, \"read more\" links, site copyright, image captions, "
+"social & search icons."
+msgstr ""
+
+#: includes/acf-fields.php:2817
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Buttons color"
+msgstr ""
+
+#: includes/acf-fields.php:2821
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Buttons."
+msgstr ""
+
+#: includes/acf-fields.php:2841
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Buttons text color"
+msgstr ""
+
+#: includes/acf-fields.php:2845
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Text inside buttons."
+msgstr ""
+
+#: includes/acf-fields.php:2865
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Active menu item"
+msgstr ""
+
+#: includes/acf-fields.php:2869
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Active and hovered main menu items."
+msgstr ""
+
+#: includes/acf-fields.php:2889
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Links"
+msgstr ""
+
+#: includes/acf-fields.php:2893
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Links in text, active menu item."
+msgstr ""
+
+#: includes/acf-fields.php:2913
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Links underline"
+msgstr ""
+
+#: includes/acf-fields.php:2917
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Links in text underline."
+msgstr ""
+
+#: includes/acf-fields.php:2937
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Links hover underline"
+msgstr ""
+
+#: includes/acf-fields.php:2941
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Links in text underline when hovering."
+msgstr ""
+
+#: includes/acf-fields.php:2961
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Header dash"
+msgstr ""
+
+#: includes/acf-fields.php:2965
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Dash between header menu and icons."
+msgstr ""
+
+#: includes/acf-fields.php:2985
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Page title dash"
+msgstr ""
+
+#: includes/acf-fields.php:2989
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Dash under page titles."
+msgstr ""
+
+#: includes/acf-fields.php:3009
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Input placeholders"
+msgstr ""
+
+#: includes/acf-fields.php:3013
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Placeholder text in inputs."
+msgstr ""
+
+#: includes/acf-fields.php:3033
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Input underlines"
+msgstr ""
+
+#: includes/acf-fields.php:3037
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Input underline, table borders."
+msgstr ""
+
+#: includes/acf-fields.php:3057
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Pre-footer background"
+msgstr ""
+
+#: includes/acf-fields.php:3061
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "\"Other works\" back, blog widgets back."
+msgstr ""
+
+#: includes/acf-fields.php:3081
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Pre-footer headings"
+msgstr ""
+
+#: includes/acf-fields.php:3085
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Headings, \"Other works\" titles in pre-footer area."
+msgstr ""
+
+#: includes/acf-fields.php:3105
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Pre-footer text"
+msgstr ""
+
+#: includes/acf-fields.php:3109
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Blog widgets text in pre-footer area."
+msgstr ""
+
+#: includes/acf-fields.php:3129
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Pre-footer details"
+msgstr ""
+
+#: includes/acf-fields.php:3133
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Headings dashes, links underline, inputs underline in pre-footer area."
+msgstr ""
+
+#: includes/acf-fields.php:3153
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Pre-footer buttons color"
+msgstr ""
+
+#: includes/acf-fields.php:3157
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Buttons in pre-footer area."
+msgstr ""
+
+#: includes/acf-fields.php:3177
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Pre-footer buttons text color"
+msgstr ""
+
+#: includes/acf-fields.php:3181
+msgctxt "from included ACF fields (includes/acf-fields.php)"
+msgid "Text inside buttons in pre-footer area."
+msgstr ""
+
+#: searchform.php:10
+msgctxt "Search field placeholder"
+msgid "For a new search type here and hit Enter"
+msgstr ""
+
+#: searchform.php:11
+msgctxt "Search field placeholder on 404 page"
+msgid "Search: type here and hit Enter"
+msgstr ""
+
+#: searchform.php:15
+msgid "Type and hit Enter"
+msgstr ""
+
+#: searchform.php:16
+msgid "Search"
+msgstr ""
+
+#: single.php:59
+msgid "Tags"
+msgstr ""
+
+#: single.php:93
+msgid "Related posts: "
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Mauer Stills"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://stills.mauer.co"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Photography theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Mauer Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://mauer.co"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Portfolio"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page (alternative)"
+msgstr ""

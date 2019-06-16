@@ -1,0 +1,126 @@
+/*
+Theme Name:     Mauer Still Child
+Description:    Child theme for Mauer Still
+Author:         Mark
+Template:       mauer-stills
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+/*Portfolio*/
+
+.brand-tags {
+	text-align: center;
+	font-size: 12px;
+}
+
+.portfolio-project-in-grid, .portfolio-project-tile .brand-tags a {
+	display: inline;
+}
+
+
+/*Portfolio sort options*/
+
+#sort-options, #sort {
+	display: flex;
+}
+
+#sort:hover {
+	cursor: pointer;
+}
+
+.fa-plus-circle, .fa-minus-circle {
+	font-size: 24px;
+	padding: 20px 5px;
+}
+
+#hidden-sort-options {
+	padding: 15px 5px;
+}
+
+.hide {
+	display: none;
+}
+
+.show {
+	display: flex;
+}
+
+/*single-project page*/
+
+.brand-collaborators {
+	font-size: 14px;
+}
+
+.single-project .brand-tags {
+	text-align: left;
+}
+.brand-header {
+	display: flex;
+	justify-content: space-between;
+}
+
+/*content project content*/
+
+.brand-images {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.brand-images div {
+	margin: 1%;
+}
+
+@media all and (min-width: 500px) {
+	.brand-images div {
+		width: 48%;
+	}
+}
+
+/*.artist-images {
+	margin: 1%;
+}*/
+
+
+/*Brand page (tag template) styles*/
+
+.tag-details {
+	display: flex;
+
+}
+
+.tag-details h1 {
+	width: 25%;
+	padding: 0;
+	margin: 0;
+}
+
+.tag-custom-fields {
+ 	text-align: left;
+}
+
+.tag-custom-fields p {
+	padding: 0;
+	margin: 0;
+}
+
+
+/*Brand Directory*/
+
+.columns {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+
+.columns a {
+	width: 45%;
+	display: flex;
+}
+
+.brand-details {
+	list-style: none;
+	display: flex;
+	width: 100%;
+	justify-content: space-between;
+}
